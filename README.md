@@ -1,4 +1,5 @@
 Subtítulos SRT Panel JWPlayer
 
-Donacion o Servicios: https://ko-fi.com/licdwalterg 
+Donation or Services: https://ko-fi.com/licdwalterg
+Store: https://bundlecode.com
 Telegram: https://t.me/WalterGarci
